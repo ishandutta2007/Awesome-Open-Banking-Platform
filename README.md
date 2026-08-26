@@ -1,6 +1,6 @@
 # Awesome-Open-Banking-Platform
 
-# Top Open Banking Platforms Ecosystem
+## Top Open Banking Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Account Information (AIS), Payment Initiation (PIS), PSD2/Open Finance Connectivity, Bank Aggregation & Account-to-Account Payments*
 **Last updated: August 2026**
